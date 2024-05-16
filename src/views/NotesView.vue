@@ -24,7 +24,7 @@
       excluirAnotacoes(){
         if(localStorage.length === 0){
           alert('Faça uma anotação antes de querer excluir todas.');
-          this.$router.push('/noter');
+          this.$router.push('/');
           return;
         }
         localStorage.clear();
