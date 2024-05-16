@@ -10,7 +10,7 @@ const routes = [
     component: () => import(/* webpackChunkName: "about" */ '../views/NotesView.vue')
   },
   {
-    path: '/noter',
+    path: '/',
     name: 'noter',
     component : () => import('../views/NoterView.vue'),
   }

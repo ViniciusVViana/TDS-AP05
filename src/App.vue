@@ -1,6 +1,6 @@
 <template>
   <nav>
-    <router-link to="/noter">Anotar</router-link> |
+    <router-link to="/">Anotar</router-link> |
     <router-link to="/anotacoes">Anotações</router-link>
   </nav>
   <router-view/>
