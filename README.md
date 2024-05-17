@@ -17,6 +17,7 @@ Para iniciar foi criado um projeto Vue CLI com os comandos:
         vue create "nome_do_projeto"
   
   Esse comando cria uma estrutra de arquivos padrão, logo após a execução do comando, podemos selecionar qual versão do vue queremos utilizar, eu utilizei o vue 2 e então podermos construirmos oque desejamos.
+
 ![imagem do projeto padrão criado](./imagensRM/default.png)
 
 #### Vue Router
@@ -29,6 +30,7 @@ Para poder utilizar um sistema de paginas, foi utilizado o [Vue Router](https://
 
         vue add router
 Após esses comando, a estrutura ficará assim:
+
 ![imagem do projeto após o router](./imagensRM/afterRouter.png)
 - Na pasta router é aonde sera especificado a rota de cada pagina.
 - E na pasta views sera aonde ficara as paginas criadas.
