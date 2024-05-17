@@ -1,5 +1,8 @@
 # AP05 - Implementação de Aplicação Web com Node.js e Vue.js
 
+- [Repositório GitHub.](https://github.com/ViniciusVViana/TDS-AP05)
+- [Repositório Codeberg.](https://codeberg.org/ViniciusVianaV/TDS-AP05)
+
 Neste projeto foi utilizado o [Vue CLI](https://cli.vuejs.org/#getting-started), o [Bootstrap](https://getbootstrap.com/) para construir este projeto e o gerenciador de pacotes [NPM](https://docs.npmjs.com/getting-started) para realizar a instalação dos pacotes.
 
 ## Preparando o projeto
